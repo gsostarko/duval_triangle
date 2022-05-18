@@ -1,7 +1,7 @@
 # Duval triangle
 A Duval triangle is a diagram used for fault type identification in dissolved-gas analysis of oil-filled high-voltage transformers and other electrical apparatus.
 
-In the following picture you can see an example of a Duval's triangle plot. To enter a value you need to edit the line 41 (sample_point variable). You have to enter the %CH4, %C2H2 and the %C2H4 values to get the plot.
+In the following picture you can see an example of a Duval's triangle plot. To enter a value you need to edit the line 41 (sample_point variable). You have to enter the %CH<sub>4</sub>, %C<sub>2</sub>H<sub>2</sub> and the %C<sub>2</sub>H<sub>4</sub> values to get the plot.
 
 ```
 sample_point = np.array([8.6,23.9,  1]) @ np.transpose(A)
