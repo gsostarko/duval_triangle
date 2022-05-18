@@ -13,3 +13,6 @@ The areas on the plot are:
 * T2 - Thermal fault, 300 °C
 * T3 - Thermal fault, 300 °C < t < 700 °C
 * DT - Combitnations of thermal and electrical dischrge faults
+
+
+** Soon there will be a standalone .exe app **
