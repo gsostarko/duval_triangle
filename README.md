@@ -3,6 +3,10 @@ A Duval triangle is a diagram used for fault type identification in dissolved-ga
 
 In the following picture you can see an example of a Duval's triangle plot. To enter a value you need to edit the line 41 (sample_point variable). You have to enter the %CH4, %C2H2 and the %C2H4 values to get the plot.
 
+```
+sample_point = np.array([8.6,23.9,  1]) @ np.transpose(A)
+```
+
 ![Duval triangle example plot](readme_img/duval_triangle_example.PNG)
 
 The areas on the plot are:
@@ -15,4 +19,5 @@ The areas on the plot are:
 * DT - Combitnations of thermal and electrical dischrge faults
 
 
-** Soon there will be a standalone .exe app **
+
+**Soon there will be a standalone .exe app**
