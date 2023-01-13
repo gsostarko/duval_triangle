@@ -13,9 +13,9 @@ The areas on the plot are:
 * PD - Partial discharges of corona type
 * D1 - Discharges of low energy or partial discharges of sparking type
 * D2 - Discharges of high energy
-* T1 - Thermal fault, t < 300 °C
-* T2 - Thermal fault, 300 °C
-* T3 - Thermal fault, 300 °C < t < 700 °C
+* T1 - Thermal fault, t $\leq$ 300 °C
+* T2 - Thermal fault, 300 °C < t < 700 °C
+* T3 - Thermal fault, t $\geq$ 700 °C 
 * DT - Combitnations of thermal and electrical dischrge faults
 
 
